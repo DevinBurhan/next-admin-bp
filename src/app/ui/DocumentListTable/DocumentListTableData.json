@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "The Impact of Artificial Intelligence on the Future of Work",
+    "documentType": "Document",
+    "documentTypeClass": "dark",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 2,
+    "name": "How to Boost Your Online Presence with Social Media Marketing",
+    "documentType": "Social Media",
+    "documentTypeClass": "blue",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 3,
+    "name": "Top 10 Tips for Effective Time Management in the Workplace",
+    "documentType": "Blog Content",
+    "documentTypeClass": "primary",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 4,
+    "name": "Exploring the Latest Breakthroughs and Innovations",
+    "documentType": "Facebook Caption",
+    "documentTypeClass": "blue",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 5,
+    "name": "Revolutionizing Industries and Changing Way of Transact",
+    "documentType": "Google Ads",
+    "documentTypeClass": "dark",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 6,
+    "name": "How Technology is Transforming Industries and Redefining Job Roles",
+    "documentType": "Blog Conclusion",
+    "documentTypeClass": "indigo",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 7,
+    "name": "Revolutionizing Industries and Changing Way of Transact",
+    "documentType": "YouTube Title",
+    "documentTypeClass": "red",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 8,
+    "name": "Harnessing the Scalability and Efficiency of the Cloud",
+    "documentType": "Website Copy",
+    "documentTypeClass": "purple",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 9,
+    "name": "Exploring the Latest Developments in Electric Vehicles and Autonomous Cars",
+    "documentType": "Blog Content",
+    "documentTypeClass": "primary",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 10,
+    "name": "Protecting Data and Privacy in an Ever-Changing Landscape",
+    "documentType": "Pros & Cons",
+    "documentTypeClass": "pink",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  }
+]

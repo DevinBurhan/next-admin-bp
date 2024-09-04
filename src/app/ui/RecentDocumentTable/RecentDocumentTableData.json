@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "checked": false,
+    "name": "The Impact of Artificial Intelligence on the Future of Work",
+    "documentType": "Document",
+    "documentTypeClass": "dark",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 2,
+    "checked": false,
+    "name": "How to Boost Your Online Presence with Social Media Marketing",
+    "documentType": "Social Media",
+    "documentTypeClass": "blue",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 3,
+    "checked": false,
+    "name": "Top 10 Tips for Effective Time Management in the Workplace",
+    "documentType": "Blog Content",
+    "documentTypeClass": "primary",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  },
+  {
+    "id": 4,
+    "checked": false,
+    "name": "Transforming Healthcare with Big Data: Exploring the Opportunities",
+    "documentType": "Website Copy & SEO",
+    "documentTypeClass": "purple",
+    "date": "Feb 15,2023",
+    "time": "02:31 PM"
+  }
+]

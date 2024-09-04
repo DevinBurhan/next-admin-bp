@@ -1,0 +1,10 @@
+{
+  "menuData": [
+    {
+      "href": "/",
+      "title": "Dashboard",
+      "icon": "dashboard-fill",
+      "heading": false
+    }
+  ]
+}

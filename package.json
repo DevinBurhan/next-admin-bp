@@ -1,0 +1,25 @@
+{
+  "name": "social-scribe-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5252",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-react": "^4.3.2",
+    "bootstrap": "^5.3.3",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-bootstrap": "^2.10.1",
+    "react-dom": "^18",
+    "react-syntax-highlighter": "^15.5.0",
+    "suneditor-react": "^3.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0"
+  }
+}
